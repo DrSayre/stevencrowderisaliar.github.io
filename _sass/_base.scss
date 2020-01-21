@@ -20,10 +20,10 @@ hr.light {
 
 a {
     @include transition-all;
-    color: $theme-primary;
+    color: white;
     &:hover,
     &:focus {
-        color: darken($theme-primary, 10%);
+        color: darken(white, 10%);
     }
 }
 
@@ -155,7 +155,7 @@ header {
     min-height: auto;
     @include background-cover;
     background-position: center;
-    background-image: url('../img/header.jpg');
+    background-image: url('../img/scial.jpg');
     text-align: center;
     color: white;
     .header-content {
