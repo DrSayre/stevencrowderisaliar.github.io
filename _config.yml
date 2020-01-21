@@ -1,9 +1,9 @@
 # Site settings
-title:
+title: Is Steven Crowder a Liar?
 email:
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: stevencrowderisaliar.com  # the base hostname & protocol for your site
 
 twitter_username:
 github_username:
